@@ -3,9 +3,6 @@
 ## First test bench<br>
 ![Test](Pics/TestBench.jpg)
 
-## ESP32-C6-DevKit-M1 pinout
-![ESPPinout](Pics/ESP32-C6-DevKit-M1.png)
-
 ## Info
 
 **Mini-battle bot Läti võistluseks (450g)**
