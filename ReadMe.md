@@ -1,10 +1,10 @@
 # Valdis
 
 ## First test bench<br>
-![Test](TestBench.jpg)
+![Test](Pics/TestBench.jpg)
 
 ## ESP32-C6-DevKit-M1 pinout
-![ESPPinout](ESP32-C6-DevKit-M1.png)
+![ESPPinout](Pics/ESP32-C6-DevKit-M1.png)
 
 ## Info
 
