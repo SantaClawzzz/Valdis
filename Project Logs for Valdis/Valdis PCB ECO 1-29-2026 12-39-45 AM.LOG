@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=P101 Old DesignItemId=CMP-ROOT-01270-1 New DesignItemId=CMP-ROOT-01270-3
+Change Component DesignItemId : Designator=P102 Old DesignItemId=CMP-ROOT-01270-1 New DesignItemId=CMP-ROOT-01270-3
+Change Component Footprint: Designator=P101 Old Footprint=FP-B6B-ZR-SM4-TF_LF_SN-MFG New Footprint=FP-B6B-ZR-SM4-TF_LF_SN-MFG
+Change Component Footprint: Designator=P102 Old Footprint=FP-B6B-ZR-SM4-TF_LF_SN-MFG New Footprint=FP-B6B-ZR-SM4-TF_LF_SN-MFG
+Change Managed Component Library Link : Designator=P101 Old VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D New VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D Old ItemGUID=01caccd4-d874-46a4-992c-f0aaf6721fc4 New ItemGUID=01caccd4-d874-46a4-992c-f0aaf6721fc4 Old RevisionGUID=74a6df93-49da-4196-b123-3e07f5eef8c9 New RevisionGUID=747046c9-1211-41e4-9133-8b8b430401bf
+Change Managed Component Library Link : Designator=P102 Old VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D New VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D Old ItemGUID=01caccd4-d874-46a4-992c-f0aaf6721fc4 New ItemGUID=01caccd4-d874-46a4-992c-f0aaf6721fc4 Old RevisionGUID=74a6df93-49da-4196-b123-3e07f5eef8c9 New RevisionGUID=747046c9-1211-41e4-9133-8b8b430401bf

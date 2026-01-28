@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=S100 Old DesignItemId=CMP-ROOT-01290-2 New DesignItemId=CMP-ROOT-01290-3
+Change Component Footprint: Designator=S100 Old Footprint=USLPT2819DT4TR-Footprint-1 New Footprint=USLPT2819DT4TR-Footprint-1
+Change Managed Component Library Link : Designator=S100 Old VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D New VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D Old ItemGUID=9d0ccbca-fdda-405e-a332-160aed8363d8 New ItemGUID=9d0ccbca-fdda-405e-a332-160aed8363d8 Old RevisionGUID=ea51fce3-ea4f-440c-8d41-304ee6044dea New RevisionGUID=4b3e70b1-a92b-4da3-9319-f16403d921b9

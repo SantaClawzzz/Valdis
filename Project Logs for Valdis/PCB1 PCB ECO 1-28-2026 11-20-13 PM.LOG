@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=C110 Old DesignItemId=CMP-0001-00298-1 New DesignItemId=CMP-0001-00298-2
+Change Component DesignItemId : Designator=C112 Old DesignItemId=CMP-0001-00298-1 New DesignItemId=CMP-0001-00298-2
+Change Component Footprint: Designator=C110 Old Footprint=593D106X9025C2TE3-Footprint-1 New Footprint=593D106X9025C2TE3-Footprint-1
+Change Component Footprint: Designator=C112 Old Footprint=593D106X9025C2TE3-Footprint-1 New Footprint=593D106X9025C2TE3-Footprint-1
+Change Managed Component Library Link : Designator=C110 Old VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D New VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D Old ItemGUID=3caee026-0bc5-4f9c-aeb8-96c45883fedf New ItemGUID=3caee026-0bc5-4f9c-aeb8-96c45883fedf Old RevisionGUID=f1b91a5a-ee56-42b0-9fba-e18410f8a178 New RevisionGUID=d48a4955-dba2-4b43-887d-ee8241631499
+Change Managed Component Library Link : Designator=C112 Old VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D New VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D Old ItemGUID=3caee026-0bc5-4f9c-aeb8-96c45883fedf New ItemGUID=3caee026-0bc5-4f9c-aeb8-96c45883fedf Old RevisionGUID=f1b91a5a-ee56-42b0-9fba-e18410f8a178 New RevisionGUID=d48a4955-dba2-4b43-887d-ee8241631499
