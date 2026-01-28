@@ -1,6 +1,7 @@
 # Info
 
 Kui peaks mingi 3D mudelid või mingid pildid jms, siis tuleb siia
+3D kehad PCBst on lisatud
 
 # Docs
 

@@ -5,6 +5,9 @@
 
 ## Info
 
+**HETKEL PINOUT ON KÕIK VALE**<br>
+Läksime üle PCB designile ja kasutuses nüüd ESP32 S3 (NanoS3)
+
 **Mini-battle bot Läti võistluseks (450g)**
 
 ### Komponendid

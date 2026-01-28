@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=J102 Old DesignItemId=CMP-ROOT-01320-2 New DesignItemId=CMP-ROOT-01320-3
+Change Component Footprint: Designator=J102 Old Footprint=CUSTOM ESC-Footprint-1 New Footprint=CUSTOM ESC-Footprint-1
+Change Managed Component Library Link : Designator=J102 Old VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D New VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D Old ItemGUID=797276fc-a15e-4beb-a090-b475f6d6c2c8 New ItemGUID=797276fc-a15e-4beb-a090-b475f6d6c2c8 Old RevisionGUID=ad0ce525-8669-4b03-b878-c7ecd6a2826c New RevisionGUID=7b76d2a3-cbc6-4235-8cce-809ce7719ec0

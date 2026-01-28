@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=LS100 Old DesignItemId=CMP-ROOT-01315-2 New DesignItemId=CMP-ROOT-01315-3
+Change Component Footprint: Designator=LS100 Old Footprint=Buzzer-Footprint-1 New Footprint=Buzzer-Footprint-1
+Change Managed Component Library Link : Designator=LS100 Old VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D New VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D Old ItemGUID=e67a3c8d-77a0-4774-96e9-5b07558ebdf8 New ItemGUID=e67a3c8d-77a0-4774-96e9-5b07558ebdf8 Old RevisionGUID=ad9d06b3-fd0a-48b1-8010-038a10e17cec New RevisionGUID=e5798616-4c57-4596-8f32-aed600149070
