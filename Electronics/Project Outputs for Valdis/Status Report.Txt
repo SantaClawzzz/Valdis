@@ -1,0 +1,26 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Valdis.PrjPcb]
+   Generated File[Valdis_Copper_Signal_Top.gbr]
+   Generated File[Valdis_Copper_Signal_1.gbr]
+   Generated File[Valdis_Copper_Signal_2.gbr]
+   Generated File[Valdis_Copper_Signal_Bot.gbr]
+   Generated File[Valdis_Legend_Top.gbr]
+   Generated File[Valdis_Legend_Bot.gbr]
+   Generated File[Valdis_Soldermask_Top.gbr]
+   Generated File[Valdis_Soldermask_Bot.gbr]
+   Generated File[Valdis_Paste_Top.gbr]
+   Generated File[Valdis_Paste_Bot.gbr]
+   Generated File[Valdis_Profile.gbr]
+   Generated File[Valdis_NPTH_Drill.gbr]
+   Generated File[Valdis_PTH_Drill.gbr]
+   Generated File[Valdis_Drawing_1.gbr]
+   Generated File[Valdis_Drillmap_1.gbr]
+   Generated File[Valdis.EXTREP]
+   Generated File[Valdis.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 8:30:24 PM On 1/29/2026
