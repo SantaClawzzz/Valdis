@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=C100 Old Footprint=MLCC_0603_M New Footprint=MLCC_1206_M
+Change Component Footprint: Designator=C101 Old Footprint=MLCC_0603_M New Footprint=MLCC_1206_M
+Change Managed Component Library Link : Designator=C100 Old VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D New VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D Old ItemGUID=b1b13b96-94a8-480c-bc3b-36725e1b06a2 New ItemGUID=DED04077-7F20-41E8-989A-566E52F237B5 Old RevisionGUID=43524532-ae3f-4a31-99f6-d707a6129760 New RevisionGUID=77335E84-C8B9-4FE8-B724-40D6F1EA45FD
+Change Managed Component Library Link : Designator=C101 Old VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D New VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D Old ItemGUID=b1b13b96-94a8-480c-bc3b-36725e1b06a2 New ItemGUID=DED04077-7F20-41E8-989A-566E52F237B5 Old RevisionGUID=43524532-ae3f-4a31-99f6-d707a6129760 New RevisionGUID=77335E84-C8B9-4FE8-B724-40D6F1EA45FD
+Change component parameters: Designator = "C100" ("C100"); Footprint = "MLCC_0603_M"; UniqueID = "\FQHDGMIP" ("\FQHDGMIP")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Any"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "MLCC, 1206, 22u, 10%, 16V, X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C101" ("C101"); Footprint = "MLCC_0603_M"; UniqueID = "\PBUPWMYA" ("\PBUPWMYA")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Any"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "MLCC, 1206, 22u, 10%, 16V, X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"

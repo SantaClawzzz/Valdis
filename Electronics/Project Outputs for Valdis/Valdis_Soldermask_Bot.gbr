@@ -2,7 +2,7 @@
 G04 Layer_Color=16711935*
 %FSLAX45Y45*%
 %MOMM*%
-%TF.SameCoordinates,1220A514-1184-4156-BF0E-9310A74DF62C*%
+%TF.SameCoordinates,3EC152FC-BDAA-4D33-A020-D8AD36E8E268*%
 %TF.FilePolarity,Negative*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.Part,Single*%
@@ -57,7 +57,7 @@ G04:AMPARAMS|DCode=68|XSize=1.7232mm|YSize=1.7232mm|CornerRadius=0.4816mm|HoleSi
 %TA.AperFunction,WasherPad*%
 %ADD70R,0.20320X0.20320*%
 %TA.AperFunction,ViaPad*%
-%ADD71C,0.90320*%
+%ADD71C,0.40000*%
 %TA.AperFunction,SMDPad,CuDef*%
 %ADD72R,0.96320X0.60820*%
 %ADD73R,2.55320X2.40320*%
@@ -591,5 +591,5 @@ X10505000Y8915000D02*
 D03*
 Y9220000D02*
 D03*
-%TF.MD5,c5b6114f5862cffbb04a5281c65234da*%
+%TF.MD5,2a145e0df2fe7c34f2772dd0fd8de6b9*%
 M02*
