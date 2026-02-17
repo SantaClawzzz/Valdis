@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D107
+Change Component Designator: OldDesignator=J? NewDesignator=J100
+Change Component Designator: OldDesignator=R? NewDesignator=R102
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD107_2
+Added Member To Class: ClassName=Valdis Member=Component U100 NanoS3

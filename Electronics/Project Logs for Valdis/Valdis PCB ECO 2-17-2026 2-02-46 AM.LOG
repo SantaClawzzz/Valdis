@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+12V Pin=J101-1
+Added Component: Designator=J103(XT30U-F)
+Add component (AddParameter): Name = "Case/Package"; Value = "Non-standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "XT30U-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=J103-1
+Added Pin To Net: NetName=NetJ101_1 Pin=J101-1
+Added Pin To Net: NetName=NetJ101_1 Pin=J103-2
+Added Net: Name=NetJ101_1
+Added Member To Class: ClassName=Valdis Member=Component J103 XT30U-F
