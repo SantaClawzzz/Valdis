@@ -1,0 +1,52 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\RobinMadar\\AppData\\Local\\Arduino15\\packages\\esp32-bluepad32\\hardware\\esp32\\4.1.0\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\RobinMadar\\AppData\\Local\\Arduino15\\packages\\esp32-bluepad32\\hardware\\esp32\\4.1.0\\variants\\esp32s3"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Public\\Documents\\Altium\\Valdis\\Code\\Valdis_v0\\Valdis\\build\\sketch\\Valdis.ino.cpp",
+    "Include": "ESP32Servo.h",
+    "Includepath": "C:\\Users\\RobinMadar\\OneDrive - Krakul OÜ\\Documents\\Arduino\\libraries\\ESP32Servo\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Public\\Documents\\Altium\\Valdis\\Code\\Valdis_v0\\Valdis\\build\\sketch\\Valdis.ino.cpp",
+    "Include": "ESP32Encoder.h",
+    "Includepath": "C:\\Users\\RobinMadar\\OneDrive - Krakul OÜ\\Documents\\Arduino\\libraries\\ESP32Encoder\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Public\\Documents\\Altium\\Valdis\\Code\\Valdis_v0\\Valdis\\build\\sketch\\Valdis.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Public\\Documents\\Altium\\Valdis\\Code\\Valdis_v0\\Valdis\\build\\sketch\\xbox.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\RobinMadar\\OneDrive - Krakul OÜ\\Documents\\Arduino\\libraries\\ESP32Servo\\src\\ESP32PWM.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\RobinMadar\\OneDrive - Krakul OÜ\\Documents\\Arduino\\libraries\\ESP32Servo\\src\\ESP32Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\RobinMadar\\OneDrive - Krakul OÜ\\Documents\\Arduino\\libraries\\ESP32Encoder\\src\\ESP32Encoder.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\RobinMadar\\OneDrive - Krakul OÜ\\Documents\\Arduino\\libraries\\ESP32Encoder\\src\\InterruptEncoder.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
